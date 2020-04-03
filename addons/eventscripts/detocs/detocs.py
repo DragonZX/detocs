@@ -7,7 +7,7 @@ import es, playerlib, os, time, repeat, random, gamethread, langlib, urllib2
 
 info = es.AddonInfo()
 info.name = "DeToCs Anti-Cheat" 
-info.version = "1.2"
+info.version = "1.2.1"
 info.author = "MegaMan" 
 info.url = "www.team-tocs.com"
 
